@@ -10,3 +10,4 @@ print(a)
 b=int(input("enter a number")) 
 print(b)
 
+#new day
